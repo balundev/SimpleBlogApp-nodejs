@@ -1,0 +1,12 @@
+i.bookmark {
+    font-size: 40px;
+}
+.container.main {
+    margin-top: 100px;
+}
+.container .button{
+    margin: 5px;
+}
+.edit_post {
+    display: flex;
+}
